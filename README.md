@@ -1,6 +1,4 @@
 # django
-# django
-
 setup pip in IDE
 
 pip install django
@@ -52,3 +50,13 @@ whereis pip
 
 4.  python3 manage.py makemigrations
 5.  python3 manage.py migrate
+
+In Windows
+
+pip install virtualenvwrapper-win
+
+mkvirtualenv myproject
+
+workon myproject
+
+pip install django
