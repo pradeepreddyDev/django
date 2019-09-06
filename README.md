@@ -60,3 +60,17 @@ mkvirtualenv myproject
 workon myproject
 
 pip install django
+
+
+Important URLS
+
+
+Database connectivity https://www.youtube.com/channel/UC4sG9NWzpLX3rvYE9g3aAQw
+
+tutorials  https://data-flair.training/blogs/django-views/
+
+Code : https://djangopackages.org
+
+Best practices: two scoops of django 
+
+https://www.fullstackpython.com/django.html
