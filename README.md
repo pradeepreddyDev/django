@@ -15,8 +15,9 @@ Database connectivity https://www.youtube.com/channel/UC4sG9NWzpLX3rvYE9g3aAQw
 
 1. RUN xampp
 2. create database
-3. sudo pip insatll mysqlclient
-   if we have issues with pip
+3. sudo pip insatll mysqlclient (if Environment error sudo apt install default-libmysqlclient-dev)
+
+if we have issues with pip
 
 These steps worked for me.
 
