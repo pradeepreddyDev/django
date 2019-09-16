@@ -77,3 +77,5 @@ Best practices: two scoops of django
 https://www.fullstackpython.com/django.html
 
 https://www.pythoncheatsheet.org
+
+Hosting: pythonanywhere.com
